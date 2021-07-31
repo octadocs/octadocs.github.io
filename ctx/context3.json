@@ -1,5 +1,6 @@
 {
   "@context": {
+    "xsd": "https://www.w3.org/2001/XMLSchema#",
     "decisions": "https://octadocs.io/blueprints/decisions/",
     "octa": "https://ns.octadocs.io/",
     "title": {
