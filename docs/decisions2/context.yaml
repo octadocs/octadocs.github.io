@@ -1,0 +1,2 @@
+$import: http://localhost:8278/context3.json
+# $import: named://decisions
