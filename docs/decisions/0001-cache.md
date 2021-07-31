@@ -1,5 +1,6 @@
 ---
 title: Caching the RDF graph in development
+number: 1
 ---
 
 ## Context

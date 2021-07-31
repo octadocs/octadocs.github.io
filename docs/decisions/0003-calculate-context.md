@@ -1,5 +1,6 @@
 ---
 title: Calculate a part of Context from ontologies available in the graph
+number: 3
 ---
 
 ## Context *(pun not intended)*

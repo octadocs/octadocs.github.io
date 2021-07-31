@@ -1,5 +1,6 @@
 ---
 title: Choosing database engine
+number: 4
 source:
   - https://en.wikipedia.org/wiki/Comparison_of_triplestores
   - https://www.w3.org/2001/sw/wiki/ToolTable

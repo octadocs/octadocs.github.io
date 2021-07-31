@@ -1,5 +1,6 @@
 ---
 title: Represent the navigation tree in graph
+number: 2
 ---
 
 ## Context

@@ -3,7 +3,6 @@ title: Introduce Blueprints
 status: accepted
 date: 2021-07-21
 author: Anatoly Scherbakov
-template: octadocs-decisions/adr.html
 number: 5
 ---
 
