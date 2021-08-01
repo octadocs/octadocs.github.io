@@ -1,6 +1,9 @@
 ---
 title: Represent the navigation tree in graph
 number: 2
+status: decisions:accepted
+date: 2021-07-20
+author: anatoly
 ---
 
 ## Context

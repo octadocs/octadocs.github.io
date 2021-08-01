@@ -1,6 +1,9 @@
 ---
 title: Caching the RDF graph in development
 number: 1
+status: decisions:accepted
+date: 2021-07-20
+author: anatoly
 ---
 
 ## Context

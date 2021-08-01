@@ -1,6 +1,9 @@
 ---
 title: Choosing database engine
 number: 4
+status: decisions:rejected
+date: 2021-07-20
+author: anatoly
 source:
   - https://en.wikipedia.org/wiki/Comparison_of_triplestores
   - https://www.w3.org/2001/sw/wiki/ToolTable

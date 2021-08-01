@@ -1,8 +1,8 @@
 ---
 title: Introduce Blueprints
-status: accepted
+status: decisions:accepted
 date: 2021-07-21
-author: Anatoly Scherbakov
+author: anatoly
 number: 5
 ---
 

@@ -1,6 +1,9 @@
 ---
 title: Calculate a part of Context from ontologies available in the graph
 number: 3
+status: decisions:accepted
+date: 2021-07-20
+author: anatoly
 ---
 
 ## Context *(pun not intended)*
